@@ -5,7 +5,7 @@ This Python script automatically renames all PDF files inside a selected folder,
 ## Features
 
 - Sequential renaming with padded numbering (`001`, `002`, `003`, ...)
-- Works only on `.pdf` files to avoid renaming incorrect items
+- Works only on `.pdf` files to avoid renaming incorrect items, but can be customized to other extensions
 - Prevents accidental renaming of folders or unsupported files
 - Simple and efficient — no GUI required
 
